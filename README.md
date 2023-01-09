@@ -36,6 +36,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/fuyh20/count.svg) visitor
 
 ![fuyh20's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuyh20&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyh20)](https://github.com/fuyh20/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyh20&theme=tokyonight)](https://github.com/fuyh20/github-readme-stats)
 
 
