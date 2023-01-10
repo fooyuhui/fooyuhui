@@ -34,8 +34,9 @@ My ![Visitor Count](https://profile-counter.glitch.me/fuyh20/count.svg) visitor
 # About My Github
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
-![fuyh20's GitHub stats](https://github-readme-stats.vercel.app/api?username=fuyh20&show_icons=true&theme=tokyonight)
+![fuyh20's Github stats](https://github-readme-stats.vercel.app/api?username=fuyh20&show_icons=true&count_private=true&theme=tokyonight&border_color=000000&title_color=0366D6&bg_color=45,0D1117,0D1117,7223DA)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyh20&theme=tokyonight)](https://github.com/fuyh20/github-readme-stats)
+![fuyh20's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyh20&langs_count=10&layout=compact&count_private=true&theme=tokyonight&border_color=000000&title_color=0366D6&bg_color=45,0D1117,0D1117,7223DA)
+
 
 
