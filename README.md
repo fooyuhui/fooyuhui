@@ -26,11 +26,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/fuyh20/count.svg) visitor
 - 💻 &nbsp; Python | C++ | C | MATLAB
 
 
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; ROS | Docker🐳  
-
-
 # About My Github
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
