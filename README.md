@@ -12,22 +12,11 @@ My ![Visitor Count](https://profile-counter.glitch.me/fuyh20/count.svg) visitor
 
 # I'm Yuhui Fu <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
 - 🔭 I’m currently studying on **Tsinghua University** in Beijing, China
-- 👯 from **Shanxi, China**
 - 🤔 I love **Reading, Running**
 - 📫 How to reach me: **fuyh2020@gmail.com**
 - ⚡ Fun fact: **LOL, Movie**
 
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | C++ | C | MATLAB
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; Rust ...  
 
 
 # About My Github
