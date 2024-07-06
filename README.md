@@ -14,8 +14,8 @@ My ![Visitor Count](https://profile-counter.glitch.me/fuyh20/count.svg) visitor
 
 - 🔭 I’m currently studying on **Tsinghua University** in Beijing, China
 - 🤔 I love **Reading, Running**
-- 📫 How to reach me: **fuyh2020@gmail.com**
-- ⚡ Fun fact: **LOL, Movie**
+- 📫 How to reach me: **fooyuhuii@gmail.com**
+- ⚡ Fun fact: **LOL, Valorant, Movies**
 
 
 
