@@ -19,9 +19,9 @@ My ![Visitor Count](https://profile-counter.glitch.me/fuyh20/count.svg) visitor
 - ⚡ Fun fact: **LOL, Valorant, Movies**
 
 # About My Github
-![fuyh20's Github stats](https://github-readme-stats-gamma-red-99.vercel.app/api?username=fuyh20&show_icons=true&count_private=true&theme=tokyonight&border_color=000000&title_color=0366D6&bg_color=45,0D1117,0D1117,7223DA)
+![fooyuhui's Github stats](https://github-readme-stats-gamma-red-99.vercel.app/api?username=fooyuhui&show_icons=true&count_private=true&theme=tokyonight&border_color=000000&title_color=0366D6&bg_color=45,0D1117,0D1117,7223DA)
 
-![fuyh20's Top Langs](https://github-readme-stats-gamma-red-99.vercel.app/api/top-langs/?username=fuyh20&langs_count=10&layout=compact&count_private=true&theme=tokyonight&border_color=000000&title_color=0366D6&bg_color=45,0D1117,0D1117,7223DA)
+![fooyuhui's Top Langs](https://github-readme-stats-gamma-red-99.vercel.app/api/top-langs/?username=fooyuhui&langs_count=10&layout=compact&count_private=true&theme=tokyonight&border_color=000000&title_color=0366D6&bg_color=45,0D1117,0D1117,7223DA)
 
 
 
