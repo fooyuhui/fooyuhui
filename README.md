@@ -6,11 +6,12 @@
   <img src="assets/developer.svg" width=200>
   <div>&nbsp;</div>
 
-  <p style="font-size:21px">
+<!--  <p style="font-size:21px">
   MY
    <img src="https://profile-counter.glitch.me/fooyuhui/count.svg" alt="Visitor Count" height=20>
   VISITOR
   </p>
+-->
 </div>
 
 
