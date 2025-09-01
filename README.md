@@ -18,7 +18,7 @@
 # Hi there 👋, I'm Yuhui Fu 
 
 - 🔭 I'm currently studying for a master's degree in the School of Computer Science, Peking University
-- 🧑‍🎓 I have obtained B.E. from the Department of Electronic Engineering, Tsinghua University.
+- 🧑‍🎓 I have obtained B.Eng in Electronic Engineering, Tsinghua University.
 - 🤔 I love **Reading, Running**
 - 📫 How to reach me: **fooyuhuii@gmail.com**
 - ⚡ Fun fact: **LOL, Valorant, Movies**
